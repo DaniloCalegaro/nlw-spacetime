@@ -38,7 +38,8 @@
 [**Layout**](#layout) &nbsp;&nbsp;&#124;&nbsp;&nbsp;
 [**Configurações**](#configurações) &nbsp;&nbsp;&#124;&nbsp;&nbsp;
 [**Github OAuth Apps**](#configuração-github-para-oauth) &nbsp;&nbsp;&#124;&nbsp;&nbsp;
-[**Licença**](#licença)
+[**Licença**](#licença)&nbsp;&nbsp;&#124;&nbsp;&nbsp;
+[**Autor**](#autor) 
 
 </div>
 
@@ -213,5 +214,9 @@ GITHUB_CLIENT_SECRET=Client secrets fornecido pelo Github
 ## Licença
 
 Esse projeto está registrado sob a licença MIT.
+
+## Autor
+
+Danilo Calegaro - [danilocalegaro.dev.br](https://danilocalegaro.dev.br/)
 
 ---
